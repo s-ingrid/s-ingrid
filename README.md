@@ -1,6 +1,6 @@
 ### Oie!!! Sou a Ingrid 👋
 
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning Vue.js
 - 😄 Pronouns: she/ela
 
 
@@ -18,6 +18,6 @@
 </div>
  
   
-  ### let's code <3
+ 💻 let's code <3
   
  
