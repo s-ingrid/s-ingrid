@@ -1,6 +1,6 @@
 ### Oie!!! Sou a Ingrid 👋
 
-- 🌱 I’m currently learning Vue.js
+- 🌱 I’m currently learning React.js
 - 😄 Pronouns: she/ela
 
 
