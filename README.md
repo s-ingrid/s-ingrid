@@ -1,6 +1,6 @@
 ### Oie!!! Sou a Ingrid 👋
 
-- 🌱 I’m currently learning Angular.js
+- 🌱 I’m currently learning Angular.js and Java.
 - 😄 Pronouns: she/ela
 
 
