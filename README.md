@@ -6,7 +6,6 @@
 
 <div>
   <a href="https://github.com/s-ingrid">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=s-ingrid&show_icons=true&theme=panda&include_all_comits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s-ingrid&layout=compact&langs_count=16&theme=panda"/>
 </div>
  
