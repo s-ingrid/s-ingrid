@@ -16,6 +16,8 @@
   <img align="center" alt="Ingrid-vue" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg"/>
   <img align="center" alt="Ingrid-angular" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angular/angular-original.svg"/>
   <img align="center" alt="Ingrid-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+  <img align="center" alt="Ingrid-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+  <img align="center" alt="Ingrid-laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"/>
 </div><br>
  
   
