@@ -1,6 +1,6 @@
 ### Oie!!! Sou a Ingrid 👋
 
-- 🌱 I’m currently learning PHP.
+- 🌱 I’m currently learning Java.
 - 😄 Pronouns: she/ela
 
 
@@ -18,6 +18,9 @@
   <img align="center" alt="Ingrid-node" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
   <img align="center" alt="Ingrid-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
   <img align="center" alt="Ingrid-laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-original.svg"/>
+  <img align="center" alt="Ingrid-laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+  <img align="center" alt="Ingrid-laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg"/>
+  <img align="center" alt="Ingrid-laravel" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/quarkus/quarkus-original.svg"/>
 </div><br>
  
   
